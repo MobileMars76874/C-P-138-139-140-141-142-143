@@ -1,0 +1,23 @@
+body{
+background-image: url("1461261.jpg");
+background-size: cover;
+}
+    
+.heading{
+width: 100%;
+text-align: left;
+}
+    
+.heading h3{
+display: inline;
+}
+    
+.heading button{
+float: right;
+}
+
+canvas{
+border-width: 3px;
+border-style: solid;
+border-color: white;
+}
